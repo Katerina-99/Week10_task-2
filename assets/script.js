@@ -4,8 +4,6 @@ const greet = () => {
 
 greet();
 
-const buttonPrev = document.getElementById("btn-prev");
-const buttonNext = document.getElementById("btn-next");
 const image = document.getElementById("image");
 
 const showNextImage = () => {
